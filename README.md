@@ -1,3 +1,4 @@
+### Ex. No. 01
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
 NAME : SURYAMALARV
 REG NO: 212223230224
@@ -29,13 +30,7 @@ Modify the image contrast by creating two higher contrast images using scaling f
 Display the original, lower contrast, and higher contrast images.
 
 ### Step 5:
-Split the image (boy.jpg) into B, G, R components and display the channels
-
-## Program Developed By:
-- **Name:** RUDESH KANNA R
-- **Register Number:** 212223233002
-
-  ### Ex. No. 01
+Split the image (boy.jpg) into B, G, R components and display the channel
 
 #### 1. Read the image ('Eagle_in_Flight.jpg') using OpenCV imread() as a grayscale image.
 ```
